@@ -18,7 +18,7 @@
 
 ### Used technologies ###
 
-  * React(hooks, router)
+  * Vue 3(Composition API)
   * JS
   * CSS
   * HTML
